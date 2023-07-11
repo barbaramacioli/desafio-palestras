@@ -1,0 +1,3 @@
+class Palestra < ApplicationRecord
+    
+end
